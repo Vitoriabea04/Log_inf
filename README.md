@@ -7,3 +7,6 @@ https://www.canva.com/design/DAGfsZElSZU/cVFZNXpHmXP54OjmGZDKrw/edit
 
 # Segunda atividade: Tabela "Meus Gastos" trabalhando dados cotidianos no Excel
 [Meus gastos- atividade informatica .xlsx](https://github.com/user-attachments/files/19398602/Meus.gastos-.atividade.informatica.xlsx)
+
+# Terceira atividade: Trabalho com dados abertos e uso de fórmulas básicas (Excel)
+[Atividade Informatica Aplicada 2.xlsx](https://github.com/user-attachments/files/19452220/Atividade.Informatica.Aplicada.2.xlsx)
