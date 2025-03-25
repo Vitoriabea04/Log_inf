@@ -10,3 +10,6 @@ https://www.canva.com/design/DAGfsZElSZU/cVFZNXpHmXP54OjmGZDKrw/edit
 
 # Terceira atividade: Trabalho com dados abertos e uso de fórmulas básicas (Excel)
 [Atividade Informatica Aplicada 2.xlsx](https://github.com/user-attachments/files/19452220/Atividade.Informatica.Aplicada.2.xlsx)
+
+# Quarta atividade:Trabalho com dados abertos e uso de fórmulas básicas (Power BI)
+https://app.powerbi.com/links/Z2dSVxQXIA?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
