@@ -15,6 +15,7 @@ https://www.canva.com/design/DAGfsZElSZU/cVFZNXpHmXP54OjmGZDKrw/edit
 
 ## Quarta atividade:Trabalho com dados abertos e uso de fórmulas básicas (Power BI)
 https://app.powerbi.com/links/Z2dSVxQXIA?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+![image](https://github.com/user-attachments/assets/e9e7c058-904d-480c-b671-8ad5b71ae0ff)
 
 ## Quinta atividade: Trabalho informatica Power BI, Github com dados abertos (Dupla)
 # EXCEL
