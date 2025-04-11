@@ -7,9 +7,11 @@ https://www.canva.com/design/DAGfsZElSZU/cVFZNXpHmXP54OjmGZDKrw/edit
 
 ## Segunda atividade: Tabela "Meus Gastos" trabalhando dados cotidianos no Excel
 [Meus gastos- atividade informatica .xlsx](https://github.com/user-attachments/files/19398602/Meus.gastos-.atividade.informatica.xlsx)
+![image](https://github.com/user-attachments/assets/24d26ccc-92d1-4ebd-be14-a6b53090533c)
 
 ## Terceira atividade: Trabalho com dados abertos e uso de fórmulas básicas (Excel)
 [Atividade Informatica Aplicada 2.xlsx](https://github.com/user-attachments/files/19452220/Atividade.Informatica.Aplicada.2.xlsx)
+![image](https://github.com/user-attachments/assets/d9a2d5e0-2793-4848-b29b-ad99379e400a)
 
 ## Quarta atividade:Trabalho com dados abertos e uso de fórmulas básicas (Power BI)
 https://app.powerbi.com/links/Z2dSVxQXIA?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
