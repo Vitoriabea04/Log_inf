@@ -24,3 +24,4 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 
 # POWER BI
 (https://fatecspgov-my.sharepoint.com/:u:/g/personal/vitoria_mariano_fatec_sp_gov_br/EZqwbkWpa3ZKqaToic_i7wwB4GcwMInsN2haPriKM10qxA?email=vitoria.mariano%40fatec.sp.gov.br&e=H5WMPO)
+![image](https://github.com/user-attachments/assets/720363e1-97b0-4144-b00d-1263af2e343e)
