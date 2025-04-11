@@ -20,5 +20,7 @@ https://app.powerbi.com/links/Z2dSVxQXIA?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ## Quinta atividade: Trabalho informatica Power BI, Github com dados abertos (Dupla)
 # EXCEL
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/INF%20TRABALHO1%201.xlsx?d=w2f39043ba8bc488a89a748dc0357723a&csf=1&web=1&e=ODBnKC
+![image](https://github.com/user-attachments/assets/8192945c-7a59-4b7d-bb34-131a3d71846f)
+
 # POWER BI
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/DASHBOARD%20INFORMATICA%20(1).pbix?csf=1&web=1&e=AXjlYm
