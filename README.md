@@ -23,5 +23,5 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 ![image](https://github.com/user-attachments/assets/8192945c-7a59-4b7d-bb34-131a3d71846f)
 
 # POWER BI
-(https://fatecspgov-my.sharepoint.com/:u:/g/personal/vitoria_mariano_fatec_sp_gov_br/EZqwbkWpa3ZKqaToic_i7wwB4GcwMInsN2haPriKM10qxA?email=vitoria.mariano%40fatec.sp.gov.br&e=H5WMPO)
-![image](https://github.com/user-attachments/assets/720363e1-97b0-4144-b00d-1263af2e343e)
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/cev.pbix?csf=1&web=1&e=VxPz5n
+![image](https://github.com/user-attachments/assets/423b76ef-3609-44f3-b576-533728ef13cb)
