@@ -25,3 +25,16 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 # POWER BI
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/cev.pbix?csf=1&web=1&e=VxPz5n
 ![image](https://github.com/user-attachments/assets/423b76ef-3609-44f3-b576-533728ef13cb)
+
+## Linguagem Python - Regressão Linear 
+# Atividade 1 - Ice cream
+![image](https://github.com/user-attachments/assets/76d9c180-3426-4a5a-b573-430992ed1c03)
+# Atividade 2 - Consumo de cerveja
+![image](https://github.com/user-attachments/assets/cafa4a8c-8431-4e64-8920-f3c341219e5c)
+Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+Qual modelo você usaria? Por quê?
+#Resposta:  Não são iguais, existem diferenças pois a inteligencia artificial nem sempre consegue a exatidão das respostas, utilizaria o excel que apenas trabalha com os dados existentes e aplicados a alguma operação conseguindo passar maior exatidão nos resultados.
+# Atividade 3 - House prices
+![image](https://github.com/user-attachments/assets/ce90f26d-c326-4639-b4ec-65c433f5d0e2)
+![image](https://github.com/user-attachments/assets/235af9a6-12b3-400c-b169-6770168e5ac0)
+![image](https://github.com/user-attachments/assets/b20b12b6-b055-4040-b714-66c81089199a)
