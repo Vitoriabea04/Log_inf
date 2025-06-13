@@ -45,3 +45,19 @@ Qual modelo você usaria? Por quê?
 ![image](https://github.com/user-attachments/assets/85ac14cd-8ac7-456a-9fef-913d7884c847)
 # Atividade 3 - sorvete
 ![image](https://github.com/user-attachments/assets/73b04bc6-73a6-4a6b-9f77-17625b3a12f9)
+
+## Oitava atividade: Power Apps e Power Automate
+# criação de aplicativo:
+https://github.com/user-attachments/assets/c1b3acc2-4075-4dca-9839-136fbc5a0617
+# criação de fluxo:
+https://github.com/user-attachments/assets/a3b2ef20-3333-4c2e-bad4-1bad8496e5ba
+
+
+
+
+
+
+
+
+
+
