@@ -37,9 +37,11 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_
 ![image](https://github.com/user-attachments/assets/1da55875-9796-4cfd-ab24-50d7de7d2d92)
 # Atividade 2 - Consumo de cerveja
 ![image](https://github.com/user-attachments/assets/cafa4a8c-8431-4e64-8920-f3c341219e5c)
+![image](https://github.com/user-attachments/assets/69868690-6ec9-4336-9221-871451f828d4)
 Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
 Qual modelo você usaria? Por quê?
-#Resposta:  Não são iguais, existem diferenças pois a inteligencia artificial nem sempre consegue a exatidão das respostas, utilizaria o excel que apenas trabalha com os dados existentes e aplicados a alguma operação conseguindo passar maior exatidão nos resultados.
+# Resposta:  Não são iguais, existem diferenças pois a inteligencia artificial nem sempre consegue a exatidão das respostas, utilizaria o excel que apenas trabalha com os dados existentes e aplicados a alguma operação conseguindo passar maior exatidão nos resultados.
+
 # Atividade 3 - House prices
 ![image](https://github.com/user-attachments/assets/ce90f26d-c326-4639-b4ec-65c433f5d0e2)
 ![image](https://github.com/user-attachments/assets/235af9a6-12b3-400c-b169-6770168e5ac0)
