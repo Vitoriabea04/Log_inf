@@ -28,7 +28,7 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_
 
 ## Sexta atividade: Linguagem Python - Regressão Linear 
 # Atividade 1 - Ice cream
-![image](https://github.com/user-attachments/assets/76d9c180-3426-4a5a-b573-430992ed1c03)
+![image](https://github.com/user-attachments/assets/1da55875-9796-4cfd-ab24-50d7de7d2d92)
 # Atividade 2 - Consumo de cerveja
 ![image](https://github.com/user-attachments/assets/cafa4a8c-8431-4e64-8920-f3c341219e5c)
 Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
