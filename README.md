@@ -38,3 +38,10 @@ Qual modelo você usaria? Por quê?
 ![image](https://github.com/user-attachments/assets/ce90f26d-c326-4639-b4ec-65c433f5d0e2)
 ![image](https://github.com/user-attachments/assets/235af9a6-12b3-400c-b169-6770168e5ac0)
 ![image](https://github.com/user-attachments/assets/b20b12b6-b055-4040-b714-66c81089199a)
+## Setima atividade: Projeção de vendas
+# Atividade 1 - panela de pressão
+![image](https://github.com/user-attachments/assets/e6f9341e-ec5d-45b0-a42f-65cbd174a3b8)
+# Atividade 2 - produto A/B
+![image](https://github.com/user-attachments/assets/85ac14cd-8ac7-456a-9fef-913d7884c847)
+# Atividade 3 - sorvete
+![image](https://github.com/user-attachments/assets/73b04bc6-73a6-4a6b-9f77-17625b3a12f9)
