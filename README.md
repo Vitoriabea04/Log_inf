@@ -55,9 +55,9 @@ Qual modelo você usaria? Por quê?
 
 |Oitava atividade: Power Apps e Power Automate
 -----------------------------------------------|
-# criação de aplicativo:
+# Criação de aplicativo:
 https://github.com/user-attachments/assets/c1b3acc2-4075-4dca-9839-136fbc5a0617
-# criação de fluxo:
+# Criação de fluxo:
 https://github.com/user-attachments/assets/a3b2ef20-3333-4c2e-bad4-1bad8496e5ba
 
 
