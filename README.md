@@ -26,7 +26,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/camila_sousa21_fatec_sp_gov_
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/camila_sousa21_fatec_sp_gov_br/Documents/cev.pbix?csf=1&web=1&e=VxPz5n
 ![image](https://github.com/user-attachments/assets/423b76ef-3609-44f3-b576-533728ef13cb)
 
-## Linguagem Python - Regressão Linear 
+## Sexta atividade: Linguagem Python - Regressão Linear 
 # Atividade 1 - Ice cream
 ![image](https://github.com/user-attachments/assets/76d9c180-3426-4a5a-b573-430992ed1c03)
 # Atividade 2 - Consumo de cerveja
